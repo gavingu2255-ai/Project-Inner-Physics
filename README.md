@@ -53,7 +53,7 @@ you are invited to contact the author and assist in
 
 ## 📂 Repository Structure
 
-Inner-Physics/
+Project-Inner-Physics/
 │
 ├── README.md
 │
